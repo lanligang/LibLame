@@ -1,5 +1,6 @@
 # LibLame
 音频压缩转码文件 ： lame
+> 使用方法
 ```
 - (void)conventToMp3 {
 
